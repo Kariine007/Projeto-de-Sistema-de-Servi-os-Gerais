@@ -1,4 +1,4 @@
-# Projeto-de-Sistema-de-Servi-os-Gerais
+# Projeto-de-Sistema-de-Serviços-Gerais
 # Sistema de Serviços Gerais (SSG) - Projeto de Plataforma de Serviços
 
 ## Descrição do Projeto
